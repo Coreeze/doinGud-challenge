@@ -1,5 +1,7 @@
 # DoinGud challenge
 
+Welcome 👋
+
 This project is split in 2 part: `smart-contract` & `front-end`.
 
 Tech-stack:
